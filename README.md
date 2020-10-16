@@ -6,7 +6,7 @@ this is illlustrated as shown below
 
 # screen shot 
 ![Team profile generator demo](./Assets/teamprofileGenerator.gif)
-![Team profile generator team html](./Assets/teamprofile.png)
+![Team profile generator team html](./Assets/TeamProfile.png)
 
 # Technology used 
 This is created using Object-Oriented Programming concepts. The app is run using Node.js, and uses the "Inquirer" and "FS" node modules. Files for different objects are also stored in separate .js files and passed among one another using module.exports and require.
